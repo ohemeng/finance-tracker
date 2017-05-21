@@ -1,4 +1,4 @@
-I'm going to create my second app for the Complete Ruby on Rails Development Course from Udemy
+I'm going to create my second app (Finance Tracker) for the Complete Ruby on Rails Development Course from Udemy
 
 == README
 
